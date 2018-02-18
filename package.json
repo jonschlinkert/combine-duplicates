@@ -1,7 +1,7 @@
 {
   "name": "combine-duplicates",
   "description": "Condenses repeated, consecutive occurrences of a substring in a string.",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "homepage": "https://github.com/jonschlinkert/combine-duplicates",
   "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
   "repository": "jonschlinkert/combine-duplicates",
